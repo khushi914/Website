@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Khushi NJ</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f0f5;
+      padding: 40px;
+    }
+    .container {
+      max-width: 700px;
+      background: #fff;
+      margin: auto;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin-top: 0;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    a {
+      color: #007acc;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Khushi N J</h1>
+    <p><strong>Engineering Student| Computer Science And Technology</strong></p>
+
+    <h2>📘 About Me</h2>
+    <p>Hello! I'm Khushi N J, a passionate engineering student currently studying at Dayananda Sagar University.</p>
+
+    <h2>🎓 Education</h2>
+    <ul>
+      <li>Bachelor of Engineering (BE) in Computer Science</li>
+      <li>Dayananda Sagar University, Bangalore</li>
+      <li>Expected Graduation: 202X</li>
+    </ul>
+
+    <h2>🔗 Links</h2>
+    <ul>
+      <li><a href="mailto:khushinj9@gmail.com.com">Email Me</a></li>
+      <li><a href="https://linkedin.com/in/khushi" target="_blank">LinkedIn</a></li>
+      <li><a href="https://github.com/khushi914" target="_blank">GitHub</a></li>
+    </ul>
+  </div>
+</body>
+</html>
